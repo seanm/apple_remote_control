@@ -4,6 +4,6 @@ This Xcode project includes objective-c source code to interact with the Apple R
 
 # Compatibility
 
-This code has been tested with Mac OS X 10.4.x, 10.5.x and 10.6.2 and
-10.7. Recent changes may mean that it will not compile pre 10.7
+This code has been tested with Mac OS X 10.4.x, 10.5.x and 10.6.2 and 10.7.
+The Framework has been tested and verified on Mac OS X 10.7
 
